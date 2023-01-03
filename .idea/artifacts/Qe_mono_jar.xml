@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Qe_mono:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Qe_mono_jar</output-path>
+    <root id="archive" name="Qe_mono.jar">
+      <element id="module-output" name="Qe_mono" />
+    </root>
+  </artifact>
+</component>
